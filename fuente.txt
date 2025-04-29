@@ -1,0 +1,4 @@
+Los datos usados en el trabajo son representativos de una planta de girasol en condiciones normales de crecimiento, basados en tendencias observadas en:
+- https://phet.colorado.edu/en/simulations/filter?subjects=biology&type=html
+- https://doi.org/10.1016/j.plaphy.2019.107408
+- https://www.sciencedirect.com/science/article/abs/pii/S0378429019304126
